@@ -3,7 +3,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=GayanPradeep97&color=brightgreen" alt="Profile views" /> 
     <img src="https://img.shields.io/github/stars/GayanPradeep97?label=Stars" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/GayanPradeep97?label=Forks" alt="Forks" />
     <img src="https://img.shields.io/github/license/GayanPradeep97/YourRepo?label=License" alt="License" />
 </p>
 
