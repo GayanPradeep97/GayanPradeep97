@@ -38,7 +38,7 @@
 
 ### Connect with Me
 - 🌐 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/Gayan Pradeep Kumara)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gayan-pradeep-kumara-b04b6a249)
 - 📷 [Instagram](https://www.instagram.com/gayanpradeep)
 - ✉️ Email: [gayanpradeep0212@gmail.com](mailto:gayanpradeep0212@gmail.com)
   
