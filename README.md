@@ -1,33 +1,32 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen" alt="Profile views" /> 
-    <img src="https://img.shields.io/github/stars/YourUsername?label=Stars" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/YourUsername?label=Forks" alt="Forks" />
-    <img src="https://img.shields.io/github/license/YourUsername/YourRepo?label=License" alt="License" />
+    <img src="https://komarev.com/ghpvc/?username=GayanPradeep97&color=brightgreen" alt="Profile views" /> 
+    <img src="https://img.shields.io/github/stars/GayanPradeep97?label=Stars" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/GayanPradeep97?label=Forks" alt="Forks" />
+    <img src="https://img.shields.io/github/license/GayanPradeep97/YourRepo?label=License" alt="License" />
 </p>
 
-<h2 align="center">Hey, I'm Your Name 👋</h2>
+<h2 align="center">Hey, I'm Gayan Pradeep 👋</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GayanPradeep97&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayanPradeep97&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ### About Me 👨‍💻
-- 🔭 I'm currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web and app development projects.
+- 🌱 I’m learning advanced JavaScript, TypeScript, and web security.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m open to helping with front-end development queries.
+- 💬 Ask me about Angular, Tailwind CSS, and front-end frameworks.
+- 📫 How to reach me: [gayanpradeep0212@gmail.com](mailto:gayanpradeep0212@gmail.com)
+- ⚡ Fun fact: I’m a fan of tech innovations and AI.
 
 ### Skills
-- **Languages:** HTML, CSS, JavaScript, Python, etc.
-- **Tools & Frameworks:** React, Angular, Node.js, etc.
-- **Others:** Web development, Linux server operations, etc.
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
+- **Tools & Frameworks:** Angular, React, Node.js, Tailwind CSS, Sass
+- **Others:** Web development, server operations, Linux administration
 
 ### Badges & Achievements
 <p align="center">
@@ -39,13 +38,13 @@
 
 ### Connect with Me
 - 🌐 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📷 [Instagram](https://www.instagram.com/yourprofile)
-- ✉️ Email: [yourname@example.com](mailto:yourname@example.com)
-- 📱 WhatsApp: [YourNumber](https://wa.me/YourNumber)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Gayan Pradeep Kumara)
+- 📷 [Instagram](https://www.instagram.com/gayanpradeep)
+- ✉️ Email: [gayanpradeep0212@gmail.com](mailto:gayanpradeep0212@gmail.com)
+  
 
 ---
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="Streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GayanPradeep97&theme=radical&hide_border=true" alt="Streak stats" />
 </p>
